@@ -8,7 +8,6 @@
     },
     "license": "UNLICENSED",
     "dependencies": {
-        "@aurelia-mdc-web/all": "^4.0.6",
         "@popperjs/core": "^2.8.4",
         "aurelia": "latest",
         "bootstrap": "^5.0.0-beta2",
